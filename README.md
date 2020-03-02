@@ -1,3 +1,4 @@
-# [Andrii]'s Notes
-# This is an H1 header (largest)
-###### This is an H6 header (smallest)
+# Andrii's Notes
+## Summary 
+
+This repository contains all of the notes taken by [Andrii](https://github.com/BilliMorgan) for the [Lighthouse Labs](https://www.lighthouselabs.ca) Web Development Bootcamp.
